@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2188699.chunk.css",
-    "main.js": "/static/js/main.34877dda.chunk.js",
-    "main.js.map": "/static/js/main.34877dda.chunk.js.map",
+    "main.css": "/static/css/main.fcf9e6d5.chunk.css",
+    "main.js": "/static/js/main.68676207.chunk.js",
+    "main.js.map": "/static/js/main.68676207.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6bcf65b9.js",
     "runtime-main.js.map": "/static/js/runtime-main.6bcf65b9.js.map",
-    "static/js/2.13584fa8.chunk.js": "/static/js/2.13584fa8.chunk.js",
-    "static/js/2.13584fa8.chunk.js.map": "/static/js/2.13584fa8.chunk.js.map",
+    "static/js/2.0b0171c9.chunk.js": "/static/js/2.0b0171c9.chunk.js",
+    "static/js/2.0b0171c9.chunk.js.map": "/static/js/2.0b0171c9.chunk.js.map",
     "static/js/3.345358c7.chunk.js": "/static/js/3.345358c7.chunk.js",
     "static/js/3.345358c7.chunk.js.map": "/static/js/3.345358c7.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f2188699.chunk.css.map": "/static/css/main.f2188699.chunk.css.map",
-    "static/js/2.13584fa8.chunk.js.LICENSE.txt": "/static/js/2.13584fa8.chunk.js.LICENSE.txt",
+    "static/css/main.fcf9e6d5.chunk.css.map": "/static/css/main.fcf9e6d5.chunk.css.map",
+    "static/js/2.0b0171c9.chunk.js.LICENSE.txt": "/static/js/2.0b0171c9.chunk.js.LICENSE.txt",
+    "static/media/KOBIDO.558de80b.jpg": "/static/media/KOBIDO.558de80b.jpg",
+    "static/media/KOBIDO2.40dfe728.jpg": "/static/media/KOBIDO2.40dfe728.jpg",
+    "static/media/KOBIDO3.a015e530.jpg": "/static/media/KOBIDO3.a015e530.jpg",
     "static/media/backgroundBlue2.0165be1c.jpg": "/static/media/backgroundBlue2.0165be1c.jpg",
     "static/media/jola-about.5a661971.jpeg": "/static/media/jola-about.5a661971.jpeg",
     "static/media/jola.cb864ce4.png": "/static/media/jola.cb864ce4.png",
+    "static/media/kassaji.943eaab7.jpg": "/static/media/kassaji.943eaab7.jpg",
+    "static/media/kassaji2.83d51d0b.jpg": "/static/media/kassaji2.83d51d0b.jpg",
     "static/media/logo.e80f7758.png": "/static/media/logo.e80f7758.png",
-    "static/media/map.37344693.png": "/static/media/map.37344693.png",
     "static/media/vyspa.a8172392.png": "/static/media/vyspa.a8172392.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6bcf65b9.js",
-    "static/js/2.13584fa8.chunk.js",
-    "static/css/main.f2188699.chunk.css",
-    "static/js/main.34877dda.chunk.js"
+    "static/js/2.0b0171c9.chunk.js",
+    "static/css/main.fcf9e6d5.chunk.css",
+    "static/js/main.68676207.chunk.js"
   ]
 }
